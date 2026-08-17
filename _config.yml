@@ -23,7 +23,7 @@ repository               : "natalya-vinokurova/natalya-vinokurova.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile-photo.jpg"
   name             : "Natalya Vinokurova"
   pronouns         : "she/her"
   bio              : "Associate Professor of Management, Lehigh University College of Business"
